@@ -1,5 +1,5 @@
 #!/bin/sh
 
-./reset.sh &&
+./reset.sh
 liftoff &&
 open Test.xcodeproj
